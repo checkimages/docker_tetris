@@ -60,7 +60,7 @@
 **/.vscode/
 **/test_io/
 **/out/
-#**/src/brick_game/tetris/
+**/src/brick_game/tetris/
 
 # python files
 **/*.py
