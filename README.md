@@ -71,3 +71,5 @@ GameInfo_t updateCurrentState();
 ```bash
 docker run -it --rm -v .:/project --device /dev/tty -e TCOLOR=1 -e TBRIGHT=1 checkimages/tetris
 ```
+
+[Гит-репозиторий](https://github.com/checkimages/docker_tetris)
